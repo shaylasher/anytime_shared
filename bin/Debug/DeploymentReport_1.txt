@@ -1,0 +1,50 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[customers] (Table)
+     Create
+       [dbo].[customers_interviews] (Table)
+       [dbo].[customers_invoices] (Table)
+       [dbo].[customers_ip_tours] (Table)
+       [dbo].[customers_pages] (Table)
+       [dbo].[pricing_catalog] (Table)
+       [dbo].[sync_metadata] (Table)
+       [dbo].[DF_customers_is_civ_log] (Default Constraint)
+       [dbo].[DF_customers_is_navy_log] (Default Constraint)
+       [dbo].[DF_customers_is_usaf_log] (Default Constraint)
+       [dbo].[DF_customers_meta_update] (Default Constraint)
+       [dbo].[trg_customers_interviews] (Trigger)
+       [dbo].[trg_customers_ip_tours] (Trigger)
+       [dbo].[trg_customers_pages] (Trigger)
+       [dbo].[trg_pricing_catalog] (Trigger)
+       [dbo].[tr_customers_update_meta] (Trigger)
+       [dbo].[spCustomers_Delete] (Procedure)
+       [dbo].[spCustomers_Get] (Procedure)
+       [dbo].[spCustomers_GetAll] (Procedure)
+       [dbo].[spCustomers_Insert] (Procedure)
+       [dbo].[spCustomers_Update] (Procedure)
+       [dbo].[spInterviews_Get] (Procedure)
+       [dbo].[spInterviews_Insert] (Procedure)
+       [dbo].[spInterviews_Update] (Procedure)
+       [dbo].[spInvoices_Get] (Procedure)
+       [dbo].[spInvoices_Insert] (Procedure)
+       [dbo].[spInvoices_Update] (Procedure)
+       [dbo].[spIP_Tours_Get] (Procedure)
+       [dbo].[spIP_Tours_Insert] (Procedure)
+       [dbo].[spIP_Tours_Update] (Procedure)
+       [dbo].[spPages_Get] (Procedure)
+       [dbo].[spPages_Insert] (Procedure)
+       [dbo].[spPages_Update] (Procedure)
+       [dbo].[spSync_Metadata_Get] (Procedure)
+       [dbo].[spSync_Metadata_Update] (Procedure)
+
+** Supporting actions
