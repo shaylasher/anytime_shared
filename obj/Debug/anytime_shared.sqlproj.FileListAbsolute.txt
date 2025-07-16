@@ -1,0 +1,10 @@
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\bin\Debug\anytime_shared.dacpac
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\bin\Debug\anytime_shared.dll
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\bin\Debug\anytime_shared.pdb
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\obj\Debug\anytime_shared.sqlproj.AssemblyReference.cache
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\obj\Debug\anytime_shared.dll
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\obj\Debug\anytime_shared.pdb
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\obj\Debug\Model.xml
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\obj\Debug\refactor.xml
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\obj\Debug\postdeploy.sql
+C:\Users\tanss\AnytimeLogbooks.com\dev - Documents\Shayla\anytime_sharedMinimalAPI\anytime_shared\obj\Debug\predeploy.sql

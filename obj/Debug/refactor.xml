@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="fdabb920-a50b-4466-b1a9-b07b61c2f5f9" ChangeDateTime="07/07/2025 15:17:10" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[customers].[mail_cosrt]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[customers]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="mail_cost" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bf91b58d-af11-499f-a6c3-c0a60eed7c65" ChangeDateTime="07/08/2025 01:56:51" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[customers_ip_tours].[description]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[customers_ip_tours]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ac" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="14aecc58-0f01-47bf-a5ee-eba90eff5204" ChangeDateTime="07/08/2025 01:57:01" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[customers_ip_tours].[unit_price]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[customers_ip_tours]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="start_date" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dcc03870-46ca-42e8-8020-237b3a355f32" ChangeDateTime="07/08/2025 01:57:21" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[customers_ip_tours].[quantity]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[customers_ip_tours]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="quantend_date" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="91d8653e-42ee-44ee-9d2e-2791a24a3423" ChangeDateTime="07/08/2025 01:57:30" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[customers_ip_tours].[quantend_date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[customers_ip_tours]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="end_date" />
+  </Operation>
+</Operations>
